@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
+Name: Raman Mehta
+Email: ramanmehta.rm2003@gmail.com
+
 
 ```
 
@@ -90,7 +90,7 @@ Email: krishnaik06@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
+    - Save the URI: 328641590269.dkr.ecr.eu-north-1.amazonaws.com/text
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
